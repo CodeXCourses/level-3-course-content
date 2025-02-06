@@ -16,27 +16,27 @@
 - **Day 4:** Advanced testing with Jest.
 - **Day 5:** Review of Webpack, Babel, and Jest.
 
-## Week 3: Next.js Fundamentals and React State
+## Week 3: ReactJs Fundamentals and React State
 
-- **Day 1:** Setting up Next.js projects and removing boilerplate code.
-- **Day 2:** File organization and introduction to Next.js routing; using useState in React.
+- **Day 1:** Setting up ReactsJs projects and removing boilerplate code.
+- **Day 2:** File organization and introduction to ReactJs routing; using useState in React.
 - **Day 3:** Introducing useEffect and building a single-day weather app.
 - **Day 4:** Mapping over data and expanding the weather app to display a week's forecast.
-- **Day 5:** Deploying the weather app to Netlify and reviewing Next.js basics.
+- **Day 5:** Deploying the weather app to Netlify and reviewing ReactJs basics.
 
-## Week 4: Firebase Integration in Next.js Applications
+## Week 4: Firebase Integration in ReactJs Applications
 
 - **Day 1:** Introduction to Firebase and its services.
-- **Day 2:** Integrating Firebase Auth for user authentication in Next.js.
+- **Day 2:** Integrating Firebase Auth for user authentication in ReactJs.
 - **Day 3:** Building Firestore database structure for the Todo application.
-- **Day 4:** Reading from and writing to Firestore from the Next.js application.
+- **Day 4:** Reading from and writing to Firestore from the ReactJs application.
 - **Day 5:** Best practices for Firebase security and rules.
 
-## Week 5: Comprehensive Styling Techniques in Next.js
+## Week 5: Comprehensive Styling Techniques in ReactJs
 
 - **Day 1:** Review of CSS Modules and introduction to styling with Tailwind CSS.
 - **Day 2:** Adding animations with Framer Motion; simple effects like sliding and fading.
-- **Day 3:** Responsive design using Bootstrap within Next.js.
+- **Day 3:** Responsive design using Bootstrap within ReactJs.
 - **Day 4:** Building a responsive website integrating Bootstrap and Tailwind CSS.
 - **Day 5:** Review and practice day; refining styling practices and troubleshooting common issues.
 
