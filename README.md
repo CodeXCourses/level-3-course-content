@@ -18,7 +18,7 @@
 
 ## Week 3: ReactJs Fundamentals and React State
 
-- **Day 1:** Setting up ReactsJs projects and removing boilerplate code.
+- **Day 1:** Setting up ReactsJs projects from scratch.
 - **Day 2:** File organization and introduction to ReactJs routing; using useState in React.
 - **Day 3:** Introducing useEffect and building a single-day weather app.
 - **Day 4:** Mapping over data and expanding the weather app to display a week's forecast.
