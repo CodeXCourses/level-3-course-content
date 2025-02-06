@@ -8,21 +8,21 @@
 - **Day 4:** Preparing and publishing a simple package to NPM.
 - **Day 5:** Review of Node.js and NPM fundamentals.
 
-## Week 2: Next.js Fundamentals and React State
-
-- **Day 1:** Setting up Next.js projects and removing boilerplate code.
-- **Day 2:** File organization and introduction to Next.js routing; using useState in React.
-- **Day 3:** Introducing useEffect and building a single-day weather app.
-- **Day 4:** Mapping over data and expanding the weather app to display a week's forecast.
-- **Day 5:** Deploying the weather app to Netlify and reviewing Next.js basics.
-
-## Week 3: Integrating Modern Web Development Tools
+## Week 2: Integrating Modern Web Development Tools
 
 - **Day 1:** Introduction to Webpack, setting up a project, and demonstrating JavaScript file bundling.
 - **Day 2:** Introduction to Babel, setting it up in a project with Webpack, and demonstrating JavaScript transpilation.
 - **Day 3:** Introduction to Jest and setting up testing.
 - **Day 4:** Advanced testing with Jest.
 - **Day 5:** Review of Webpack, Babel, and Jest.
+
+## Week 3: Next.js Fundamentals and React State
+
+- **Day 1:** Setting up Next.js projects and removing boilerplate code.
+- **Day 2:** File organization and introduction to Next.js routing; using useState in React.
+- **Day 3:** Introducing useEffect and building a single-day weather app.
+- **Day 4:** Mapping over data and expanding the weather app to display a week's forecast.
+- **Day 5:** Deploying the weather app to Netlify and reviewing Next.js basics.
 
 ## Week 4: Firebase Integration in Next.js Applications
 
