@@ -24,13 +24,13 @@
 - **Day 4:** Mapping over data and expanding the weather app to display a week's forecast.
 - **Day 5:** Deploying the weather app to Netlify and reviewing ReactJs basics.
 
-## Week 4: Firebase Integration in ReactJs Applications
+## Week 4: AWS DynamoDB Integration in ReactJs Applications
 
-- **Day 1:** Introduction to Firebase and its services.
-- **Day 2:** Integrating Firebase Auth for user authentication in ReactJs.
-- **Day 3:** Building Firestore database structure for the Todo application.
-- **Day 4:** Reading from and writing to Firestore from the ReactJs application.
-- **Day 5:** Best practices for Firebase security and rules.
+- **Day 1:** Introduction to AWS DynamoDB and its services.
+- **Day 2:** Integrating AWS DynamoDB for basic user authentication in ReactJs.
+- **Day 3:** Building AWS DynamoDB database structure for the Todo application.
+- **Day 4:** Reading from and writing to AWS DynamoDB from the ReactJs application.
+- **Day 5:** Best practices for AWS DynamoDB security and rules.
 
 ## Week 5: Comprehensive Styling Techniques in ReactJs
 
