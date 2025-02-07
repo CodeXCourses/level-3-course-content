@@ -14,7 +14,7 @@
 
 - **Day 1:** Introduction to Webpack, setting up a project, and demonstrating JavaScript file bundling.
 - **Day 2:** Introduction to Babel, setting it up in a project with Webpack, and demonstrating JavaScript transpilation.
-- **Day 3:** Code splitting and tree shaking in Webpack.
+- **Day 3:** Tree shaking in Webpack.
 - **Day 4:** Advanced Webpack optimizations and plugins.
 - **Day 5:** Review of Webpack and Babel.
 
