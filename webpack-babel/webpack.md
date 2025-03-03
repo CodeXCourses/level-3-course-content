@@ -4,7 +4,7 @@
 
 These are default Webpack settings that DO NOT need to be in `webpack.config.json` and `webpack.config.js`:
 
-Webpack resolves JavaScripts files, so it's unnecessary to include .js when importing from a JavaScript file:
+Webpack resolves JavaScripts files, so it's unnecessary to include `.js` when importing from a JavaScript file:
 ```json
 "resolve": {
   "extensions": ['.js', '.json', '.wasm']
@@ -45,7 +45,6 @@ With no config file and the default folder structure:
 This config will run a Hello World React application and other simple projects:
 
 NOTE: All JavaScript files, including React components, should end with `.js`
-webpack.config.json
 ```json
 {
   "modules": {
@@ -57,6 +56,7 @@ webpack.config.json
   }
 }
 ```
+webpack.config.json
 
 ### Practical Minimal React Config
 
@@ -66,7 +66,6 @@ This config will run a Hello World React application and other simple projects, 
 - Enable the debugger with original source code
 
 NOTE: All JavaScript files, including React components, should end with `.js`
-webpack.config.json
 ```json
 {
   "modules": {
@@ -81,18 +80,19 @@ webpack.config.json
   "devtool": "source-map"
 }
 ```
+webpack.config.json
 
 ### Build Errors
 
 As more node modules are added to the project, build errors may occur as web servers (like Live Server) prematurely render pages before Webpack finishes bundling. To fix, add a delay to the server, or add a delay to Webpack:
 
 NOTE: Increase the delay by 1-second increments if build errors occur.
-webpack.config.json
 ```json
 "watchOptions": {
   "aggregateTimeout": 1000
 }
 ```
+webpack.config.json
 
 ### Level 3 Config File
 
@@ -101,7 +101,6 @@ This config file includes features to cover level 3 topics:
 - Style imports
 - Asset imports
 
-webpack.config.js
 ```javascript
 export default {
   //MODULES ARE FILES THAT ARE IMPORTED
@@ -129,3 +128,4 @@ export default {
   devtool: "source-map", //ENABLES DEBUGGER CODE TO MATCH ACTUAL CODE
 };
 ```
+webpack.config.js
