@@ -61,11 +61,11 @@
 ---
 
 ### **Week 7: Guided Project**
-
-- **Day 1:** Project planning and setup.
-- **Day 2:** Implementing core features using React and DynamoDB.
-- **Day 3:** Adding authentication and authorization.
-- **Day 4:** Testing and debugging.
+  
+- **Day 1:** Plan features. Setup React. Connect DynamoDB. GitHub repo.
+- **Day 2:** Implement CRUD. Basic forms. DB read/write. Minimal styling.
+- **Day 3:** Add Tailwind. Optional library. Improve the layout. Theming, animations.
+- **Day 4:** Write tests. Debug code. Polish features. Prepare for deployment.
 - **Day 5:** Deploying the project and getting feedback.
 
 ---
