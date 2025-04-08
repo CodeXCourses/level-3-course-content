@@ -62,7 +62,7 @@
 
 ### **Week 7: Guided Project**
 
-- **Day 1:** Project planning and setup (AWS, Vite, Webpack, Jest integration).
+- **Day 1:** Project planning and setup.
 - **Day 2:** Implementing core features using React and DynamoDB.
 - **Day 3:** Adding authentication and authorization.
 - **Day 4:** Testing and debugging.
