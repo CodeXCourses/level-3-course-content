@@ -42,10 +42,10 @@
 
 ### **Week 5: Comprehensive Styling Techniques in React.js**
 
-- **Day 1:** Review of CSS Modules and introduction to styling with Tailwind CSS.
-- **Day 2:** Adding animations with Framer Motion; simple effects like sliding and fading.
-- **Day 3:** Responsive design using Bootstrap within React.js.
-- **Day 4:** Building a responsive website integrating Bootstrap and Tailwind CSS.
+- **Day 1:** Introduction to SASS.
+- **Day 2:** Adding animations; simple effects like sliding and fading. (Consider a framework like Framer Motion.)
+- **Day 3:** Component Libraries within React.js.
+- **Day 4:** Building a responsive website.
 - **Day 5:** Review and practice day; refining styling practices and troubleshooting common issues.
 
 ---
