@@ -22,7 +22,7 @@
 
 ### **Week 3: React.js Fundamentals and State Management**
 
-- **Day 1:** Setting up React.js projects from scratch using Vite.
+- **Day 1:** Setting up React.js projects from scratch using Webpack and Babel.
 - **Day 2:** File organization and introduction to React.js routing; using `useState` in React.
 - **Day 3:** Introducing `useEffect` and building a single-day weather app.
 - **Day 4:** Mapping over data and expanding the weather app to display a week's forecast.
