@@ -30,13 +30,13 @@
 
 ---
 
-### **Week 4: AWS and DynamoDB Integration in React.js Applications**
+### **Week 4: Firebase and Firestore Integration in React.js Applications**
 
-- **Day 1:** Introduction to AWS IAM, DynamoDB, and its services.
-- **Day 2:** Setting up AWS billing alerts and multi-account management.
-- **Day 3:** Integrating AWS DynamoDB for user authentication in React.js.
-- **Day 4:** Reading from and writing to AWS DynamoDB from the React.js application.
-- **Day 5:** Best practices for AWS security, DynamoDB indexing, and rules.
+- **Day 1:** What is a database; Firebase/Firestore; realtime setup.
+- **Day 2:** Connect Firebase to React; realtime reads/writes; shared DB.
+- **Day 3:** Set up Firebase Auth; login/logout; user state.
+- **Day 4:** Per-user data with `uid`; private realtime lists.
+- **Day 5:** Deploy to Netlify; env vars; full review.
 
 ---
 
@@ -62,7 +62,7 @@
 
 ### **Week 7: Guided Project**
   
-- **Day 1:** Plan features. Setup React. Connect DynamoDB. GitHub repo.
+- **Day 1:** Plan features. Setup React. Connect Firebase. GitHub repo.
 - **Day 2:** Implement CRUD. Basic forms. DB read/write. Minimal styling.
 - **Day 3:** Add Tailwind. Optional library. Improve the layout. Theming, animations.
 - **Day 4:** Write tests. Debug code. Polish features. Prepare for deployment.
