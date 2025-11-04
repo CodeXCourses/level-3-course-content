@@ -30,13 +30,13 @@
 
 ---
 
-### **Week 4: Firebase and Firestore Integration in React.js Applications**
+### **Week 4: Supabase Integration in React.js Applications**
 
-- **Day 1:** What is a database; Firebase/Firestore; realtime setup.
-- **Day 2:** Connect Firebase to React; realtime reads/writes; shared DB.
-- **Day 3:** Set up Firebase Auth; login/logout; user state.
-- **Day 4:** Per-user data with `uid`; private realtime lists.
-- **Day 5:** Deploy to Netlify; env vars; full review.
+- **Day 1:** What is a database; Supabase overview; create a project and one table.
+- **Day 2:** Connect `@supabase/supabase-js` to React; read rows and render a list.
+- **Day 3:** Insert rows from a simple form.
+- **Day 4:** Update and delete rows; basic validation and error handling.
+- **Day 5:** Deploy to Netlify; `SUPABASE_URL` and `SUPABASE_ANON_KEY`; quick review.
 
 ---
 
@@ -62,11 +62,11 @@
 
 ### **Week 7: Guided Project**
   
-- **Day 1:** Plan features. Setup React. Connect Firebase. GitHub repo.
-- **Day 2:** Implement CRUD. Basic forms. DB read/write. Minimal styling.
-- **Day 3:** Add Tailwind. Optional library. Improve the layout. Theming, animations.
-- **Day 4:** Write tests. Debug code. Polish features. Prepare for deployment.
-- **Day 5:** Deploying the project and getting feedback.
+- **Day 1:** Plan features. Setup React. Connect Supabase. GitHub repo.
+- **Day 2:** Implement basic CRUD. Minimal styling.
+- **Day 3:** Add Tailwind. Improve layout and UX.
+- **Day 4:** Write tests. Debug code. Prepare for deployment.
+- **Day 5:** Deploy the project and get feedback.
 
 ---
 
